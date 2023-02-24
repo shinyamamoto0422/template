@@ -4,6 +4,8 @@ import { MantineProvider } from '@mantine/core';
 import type { AppProps } from 'next/app';
 import Head from 'next/head';
 
+// 設定ファイル _app.tsxでMantineの初期設定をかく
+
 const MyApp = ({ Component, pageProps }: AppProps) => {
   return (
     <>

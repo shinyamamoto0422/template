@@ -1,5 +1,6 @@
 import { Button } from '@mantine/core';
 
+// rootのページ
 const Index = () => {
   return (
     <>
